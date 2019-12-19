@@ -1,0 +1,29 @@
+.main-menu > .simple-action {
+    margin-right: var(--gap-small);
+    font-size: 12px;  
+}
+
+.main-menu > .primary-button {
+    display: inline-block;
+    font-size: 12px;
+    width: 60px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    vertical-align: middle;
+    
+    /* display: inline-flex;
+    align-items: center;
+    justify-content: center ;
+    font-size: 12px;
+    width: 60px;
+    height: 20px; */
+
+    /* padding: 4px 14px;
+    font-size: 12px;
+    width: 60px;
+    height: 20px;
+     */
+
+     /* display: inline; can't receive any kind of size changes (width: n; or height: n;) */
+}
